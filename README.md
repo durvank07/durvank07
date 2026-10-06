@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Durvank Chavan
 
-<!--
-**durvank07/durvank07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering Student  
+💻 Aspiring Software Engineer  
+🚀 Learning, Building & Growing Every Day
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently pursuing Computer Science & Engineering
+- 🌱 Currently learning C++ and AI/ML
+- 💡 Interested in Software Development and Problem Solving
+- 🚀 Building academic and real-world projects
+- 🎯 Goal: Become a skilled and adaptable Software Engineer
+
+## 🛠️ Skills I'm Learning
+
+- C++
+- Python
+- HTML & CSS
+- JavaScript
+- Git & GitHub
+- Computer Networks
+- Data Structures & Algorithms
+- AI & Machine Learning
+
+## 📌 Projects
+
+I'm currently working on projects related to:
+- Academia–Industry Collaboration
+- Blood Donor & Patient Emergency Matching
+- Web Development
+- AI & Machine Learning
+
+## 📚 Currently Learning
+
+> Learning → Building → Practicing → Improving
+
+## 🤝 Connect With Me
+
+- GitHub: [@durvank07](https://github.com/durvank07)
+
+---
+
+⭐ Thanks for visiting my profile!
